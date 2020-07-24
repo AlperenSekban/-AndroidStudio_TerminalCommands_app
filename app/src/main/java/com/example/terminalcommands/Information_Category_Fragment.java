@@ -41,8 +41,6 @@ public class Information_Category_Fragment extends Fragment {
         definations();
         response();
 
-        Log.i("sadf","sadfa");
-
 
         return view;
     }
